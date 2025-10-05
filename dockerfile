@@ -8,4 +8,4 @@ RUN yum install git -y
 
 RUN yum install wget -y
  
-RUN yum install tree
+RUN yum install tree -y
